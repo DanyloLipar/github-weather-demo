@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-weather-demo/static/css/main.1a9e1ce4.css",
+    "main.js": "/github-weather-demo/static/js/main.674fd3a4.js",
+    "index.html": "/github-weather-demo/index.html",
+    "main.1a9e1ce4.css.map": "/github-weather-demo/static/css/main.1a9e1ce4.css.map",
+    "main.674fd3a4.js.map": "/github-weather-demo/static/js/main.674fd3a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9e1ce4.css",
+    "static/js/main.674fd3a4.js"
+  ]
+}
