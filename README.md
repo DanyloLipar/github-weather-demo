@@ -1,5 +1,7 @@
 # github-weather-demo app
 
+[DEMO](https://danylolipar.github.io/github-weather-demo/)
+
 # Used stack
   React.js/TS/SASS/BEM
 
